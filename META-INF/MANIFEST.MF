@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Class-Path: jms.jar jta.jar rmm.jar jndi.jar ldap.jar dhbcore.jar conn
+ ector.jar fscontext.jar com.ibm.mq.jar junit-4.10.jar providerutil.ja
+ r com.ibm.mqjms.jar com.ibm.mq.pcf.jar com.ibm.mq.jmqi.jar com.ibm.mq
+ .soap.jar com.ibm.mq.axis2.jar ApacheJMeter_core.jar ApacheJMeter_jav
+ a.jar hamcrest-core-1.1.jar com.ibm.mq.headers.jar com.ibm.mq.postcar
+ d.jar com.ibm.mq.tools.ras.jar com.ibm.mq.jms.Nojndi.jar com.ibm.mq.d
+ efaultconfig.jar com.ibm.mq.commonservices.jar javax.resource.connect
+ or-1.0.jar mysql-connector-java-5.1.44-bin.jar
+
